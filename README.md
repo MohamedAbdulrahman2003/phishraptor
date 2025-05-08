@@ -1,2 +1,12 @@
-# phishraptor
-PhishRaptor is an advanced phishing tool for ethical hacking. It replicates login pages (like Facebook) and captures user credentials, IP, and geolocation data. Integrated with ngrok, it exposes the phishing server to the internet. Designed for penetration testing in controlled environments.
+# PhishRaptor
+
+🦅 Advanced phishing tool with secure tunneling and real-time credential capture.
+
+## Features
+- Fake login page (Facebook clone)
+- Logs credentials and IP info
+- Integrated with ngrok for public URLs
+
+## Author
+**Eng. Mohamed Abdulrahman**  
+GitHub: [@EngMohamedAbdulrahman](https://github.com/EngMohamedAbdulrahman)
